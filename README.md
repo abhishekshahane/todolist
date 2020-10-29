@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# todolist
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is basically my other repository, but deployed(not on scrimba).
 
 ## Available Scripts
 
