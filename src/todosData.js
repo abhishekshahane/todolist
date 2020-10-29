@@ -7,7 +7,7 @@ const todosData = [
     },
     {
         id: 2,
-        text: "Tell everyone to shut up",
+        text: "Relax and Code",
         completed: false
     },
     {
